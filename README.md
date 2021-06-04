@@ -1,5 +1,4 @@
-# DAT510 Asssignment 1, 2020 
-This file contains information both about which packages need to be installed and the structure of the project.<br>
+# DES (Data Encryption Standard) and TripleDES
 
 ## Requirements packages 
 In order to run the scripts, the last python version (3.7.x) is required.<br>
