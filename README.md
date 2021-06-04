@@ -1,4 +1,4 @@
-# DES (Data Encryption Standard) and TripleDES
+# Data Encryption Standard (DES) and TripleDES
 
 ## Requirements packages 
 In order to run the scripts, the last python version (3.7.x) is required.<br>
