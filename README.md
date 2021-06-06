@@ -22,7 +22,7 @@ An implementation of a simplified version of DES algorithm (SDES) which is able 
 An implementation of a simplified version of a tripple DES algorithm (SDES) which is able to crack binary ciphered texts.<br>
 
 ### A simple webserver:
-Theres is also a webserver that run on localhost and tests the second part of application. 
+Theres is also a webserver that run on localhost and tests the application. 
 
 ## Run the apllication:
 Use the command:<br>
@@ -31,6 +31,6 @@ Use the command:<br>
 Run the webserver:<br>
 `flask run`
 
-After running each part, the results folder will be updated by the file containing the answer of decryption/encryption tasks.<br>
+The results of tests will be uploaded to the results folder, which contains the answer to decryption/encryption tasks.<br>
 The cipher folder contains ciphertext files.<br>
 The static directory contains the HTML and javascript file for the front-end part of the website.<br>
