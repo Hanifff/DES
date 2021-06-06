@@ -25,11 +25,8 @@ An implementation of a simplified version of a tripple DES algorithm (SDES) whic
 Theres is also a webserver that run on localhost and tests the second part of application. 
 
 ## Run the apllication:
-Run tasks in part 1:<br>
-`part1_main.py`
-
-Run tasks in part 2:<br>
-`part2_main.py`
+Use the command:<br>
+`main.py`
 
 Run the webserver:<br>
 `flask run`
